@@ -1,4 +1,4 @@
-let numeros = [10, 12, 26, 31, 45];
+let numeros = [07, 10, 12, 26, 27, 31, 32, 45];
 
 for (var i = 0; i < numeros.length; i++) {
   let num = document.getElementById(numeros[i]);
