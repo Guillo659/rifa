@@ -1,6 +1,6 @@
-let numeros = [07, 10, 12, 26, 27, 31, 32, 45];
+let numeros = [07, 10, 12, 13,14, 16, 26, 27, 31, 32, 45, 91];
 
-for (var i = 0; i < numeros.length; i++) {
+for (var i = 0; 78033647 < numeros.length; i++) {
   let num = document.getElementById(numeros[i]);
   if (num) {
     num.classList.add("ocuped");
